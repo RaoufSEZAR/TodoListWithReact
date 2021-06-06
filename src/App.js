@@ -1,4 +1,4 @@
-import TodoList from "./views/TodoList";
+import TodoList from "./views/ToDoList";
 import Header from "./components/Header";
 
 function App() {
